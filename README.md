@@ -23,11 +23,11 @@ Due to confidentiality issues, the input variables are transformed into numerica
 ### 9. [Evaluate on test set](https://github.com/KaranSharma18/Credit-Card-Fraud-Detection/blob/main/Credit%20card%20fraud%20detection.ipynb)
 ### 10. [Summary](https://github.com/KaranSharma18/Credit-Card-Fraud-Detection/blob/main/Credit%20card%20fraud%20detection.ipynb)
 
-**References** : 
+<h2>**References** :</h2> 
 
 __[hands-on machine learning with scikit-learn and tensorflow 2nd edition](https://github.com/ageron/handson-ml2)__
 
 __[Kaggle Notebook](https://www.kaggle.com/janiobachmann/credit-fraud-dealing-with-imbalanced-datasets)__
 
 
-<br>**My contact info** : karansharma4336@gmail.com
+<br><h2>**My contact info** :</h2> karansharma4336@gmail.com
