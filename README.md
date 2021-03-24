@@ -14,20 +14,20 @@ Due to confidentiality issues, the input variables are transformed into numerica
 
 #### 1. [Set up](https://github.com/KaranSharma18/Credit-Card-Fraud-Detection/blob/main/Credit%20card%20fraud%20detection.ipynb)
 #### 2. [Explore and Prepare Data](https://github.com/KaranSharma18/Credit-Card-Fraud-Detection/blob/main/Credit%20card%20fraud%20detection.ipynb)
-### 3. [Splitting Data ](https://github.com/KaranSharma18/Credit-Card-Fraud-Detection/blob/main/Credit%20card%20fraud%20detection.ipynb)
-### 4. [Outliers](https://github.com/KaranSharma18/Credit-Card-Fraud-Detection/blob/main/Credit%20card%20fraud%20detection.ipynb)
-### 5. [Undersampling](https://github.com/KaranSharma18/Credit-Card-Fraud-Detection/blob/main/Credit%20card%20fraud%20detection.ipynb)
-### 6. [train models](https://github.com/KaranSharma18/Credit-Card-Fraud-Detection/blob/main/Credit%20card%20fraud%20detection.ipynb)
-### 7. [ROC Curves](https://github.com/KaranSharma18/Credit-Card-Fraud-Detection/blob/main/Credit%20card%20fraud%20detection.ipynb)
-### 8. [Fine Tuning XGBoost](https://github.com/KaranSharma18/Credit-Card-Fraud-Detection/blob/main/Credit%20card%20fraud%20detection.ipynb)
-### 9. [Evaluate on test set](https://github.com/KaranSharma18/Credit-Card-Fraud-Detection/blob/main/Credit%20card%20fraud%20detection.ipynb)
-### 10. [Summary](https://github.com/KaranSharma18/Credit-Card-Fraud-Detection/blob/main/Credit%20card%20fraud%20detection.ipynb)
+#### 3. [Splitting Data ](https://github.com/KaranSharma18/Credit-Card-Fraud-Detection/blob/main/Credit%20card%20fraud%20detection.ipynb)
+#### 4. [Outliers](https://github.com/KaranSharma18/Credit-Card-Fraud-Detection/blob/main/Credit%20card%20fraud%20detection.ipynb)
+#### 5. [Undersampling](https://github.com/KaranSharma18/Credit-Card-Fraud-Detection/blob/main/Credit%20card%20fraud%20detection.ipynb)
+#### 6. [train models](https://github.com/KaranSharma18/Credit-Card-Fraud-Detection/blob/main/Credit%20card%20fraud%20detection.ipynb)
+#### 7. [ROC Curves](https://github.com/KaranSharma18/Credit-Card-Fraud-Detection/blob/main/Credit%20card%20fraud%20detection.ipynb)
+#### 8. [Fine Tuning XGBoost](https://github.com/KaranSharma18/Credit-Card-Fraud-Detection/blob/main/Credit%20card%20fraud%20detection.ipynb)
+#### 9. [Evaluate on test set](https://github.com/KaranSharma18/Credit-Card-Fraud-Detection/blob/main/Credit%20card%20fraud%20detection.ipynb)
+#### 10. [Summary](https://github.com/KaranSharma18/Credit-Card-Fraud-Detection/blob/main/Credit%20card%20fraud%20detection.ipynb)
 
 <h2>References :</h2> 
 
-### __[hands-on machine learning with scikit-learn and tensorflow 2nd edition](https://github.com/ageron/handson-ml2)__
+#### __[hands-on machine learning with scikit-learn and tensorflow 2nd edition](https://github.com/ageron/handson-ml2)__
 
-### __[Kaggle Notebook](https://www.kaggle.com/janiobachmann/credit-fraud-dealing-with-imbalanced-datasets)__
+#### __[Kaggle Notebook](https://www.kaggle.com/janiobachmann/credit-fraud-dealing-with-imbalanced-datasets)__
 
 
 ### **My contact info**: karansharma4336@gmail.com
