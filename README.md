@@ -29,4 +29,5 @@ Due to confidentiality issues, the input variables are transformed into numerica
 
 ###__[Kaggle Notebook](https://www.kaggle.com/janiobachmann/credit-fraud-dealing-with-imbalanced-datasets)__
 
-<h2>**My contact info** :</h2> karansharma4336@gmail.com
+
+<h2>My contact info : karansharma4336@gmail.com</h2>
