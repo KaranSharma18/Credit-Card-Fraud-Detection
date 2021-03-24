@@ -10,4 +10,17 @@ Due to confidentiality issues, the input variables are transformed into numerica
 
 **More information** :  __[here](https://www.kaggle.com/mlg-ulb/creditcardfraud)__
 
+<h2>Outline: </h2>
+
+### 1. [Set up](#setup)
+### 2. [Explore and Prepare Data](#epd)
+### 3. [Splitting Data ](#sd)
+### 4. [Outliers](#o)
+### 5. [Undersampling](#ru)
+### 6. [train models](#tm)
+### 7. [ROC Curves](#roc)
+### 8. [Fine Tuning XGBoost](#ft)
+### 9. [Evaluate on test set](#testset)
+### 10. [Summary](#summ)
+
 <br>**My contact info** : karansharma4336@gmail.com
