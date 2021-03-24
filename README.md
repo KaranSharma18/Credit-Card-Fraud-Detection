@@ -25,9 +25,8 @@ Due to confidentiality issues, the input variables are transformed into numerica
 
 <h2>References :</h2> 
 
-__[hands-on machine learning with scikit-learn and tensorflow 2nd edition](https://github.com/ageron/handson-ml2)__
+###__[hands-on machine learning with scikit-learn and tensorflow 2nd edition](https://github.com/ageron/handson-ml2)__
 
-__[Kaggle Notebook](https://www.kaggle.com/janiobachmann/credit-fraud-dealing-with-imbalanced-datasets)__
+###__[Kaggle Notebook](https://www.kaggle.com/janiobachmann/credit-fraud-dealing-with-imbalanced-datasets)__
 
-
-<br><h2>**My contact info** :</h2> karansharma4336@gmail.com
+<h2>**My contact info** :</h2> karansharma4336@gmail.com
