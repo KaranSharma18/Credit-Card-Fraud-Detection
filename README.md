@@ -12,8 +12,8 @@ Due to confidentiality issues, the input variables are transformed into numerica
 
 <h2>Outline: </h2>
 
-### 1. [Set up](https://github.com/KaranSharma18/Credit-Card-Fraud-Detection/blob/main/Credit%20card%20fraud%20detection.ipynb)
-### 2. [Explore and Prepare Data](https://github.com/KaranSharma18/Credit-Card-Fraud-Detection/blob/main/Credit%20card%20fraud%20detection.ipynb)
+#### 1. [Set up](https://github.com/KaranSharma18/Credit-Card-Fraud-Detection/blob/main/Credit%20card%20fraud%20detection.ipynb)
+#### 2. [Explore and Prepare Data](https://github.com/KaranSharma18/Credit-Card-Fraud-Detection/blob/main/Credit%20card%20fraud%20detection.ipynb)
 ### 3. [Splitting Data ](https://github.com/KaranSharma18/Credit-Card-Fraud-Detection/blob/main/Credit%20card%20fraud%20detection.ipynb)
 ### 4. [Outliers](https://github.com/KaranSharma18/Credit-Card-Fraud-Detection/blob/main/Credit%20card%20fraud%20detection.ipynb)
 ### 5. [Undersampling](https://github.com/KaranSharma18/Credit-Card-Fraud-Detection/blob/main/Credit%20card%20fraud%20detection.ipynb)
